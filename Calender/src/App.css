@@ -1,0 +1,38 @@
+ @import "tailwindcss";
+ 
+ /* .calendar {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.grid {
+  display: grid;
+  flex-direction: row;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.day-name {
+  font-weight: bold;
+}
+
+.day {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.today {
+  background-color: #4f46e5;
+  color: white;
+  border-radius: 50%;
+} */
